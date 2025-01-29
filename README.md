@@ -35,7 +35,7 @@ python train_model.py
 ## Running the Emotion Detection Model
 To run real-time emotion detection using your webcam, execute:
 ```sh
-python detect_emotion.py
+python main.py
 ```
 
 Press 'q' to exit the webcam interface.
